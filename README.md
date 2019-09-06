@@ -1,4 +1,7 @@
-# Oasis
+Oasis
+
+Oasis is an online analytic system for incivility detection and sentiment classification. This package provides the source codes of deep learning-based classification models in Oasis.
+ 
 #Programming Language
 Python 3.7
 
@@ -39,3 +42,14 @@ one dataset used for training Incivility Classifier: "twitter-hate-speech-classi
 #model
 Under "model" directory:
 trained models of the two classifiers
+
+ 
+
+If you find that our codes are useful, please use the following BibTeX citations to cite our paper.
+
+@inproceedings{lhxs2019oasis,
+  title     = {Oasis: Online Analytic System for Incivility Detection and Sentiment },
+  author    = {Liu, Leyu and Huang, Xin and Xu, Jianliang and Song, Yunya},
+  booktitle = {IEEE International Conference on Data Mining},
+  year      = {2019}
+}
