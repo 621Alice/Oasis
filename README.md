@@ -49,7 +49,7 @@ If you find that our codes are useful, please use the following BibTeX citations
 
 @inproceedings{lhxs2019oasis,
   title     = {Oasis: Online Analytic System for Incivility Detection and Sentiment },
-  author    = {Liu, Leyu and Huang, Xin and Xu, Jianliang and Song, Yunya},
+  author    = {Liu, Leyu and Xin, Huang and Xu, Jianliang and Song, Yunya},
   booktitle = {IEEE International Conference on Data Mining},
   year      = {2019}
 }
