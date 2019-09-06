@@ -1,5 +1,4 @@
-# Sentiment-Analysis-and-Incivility-Detection
-
+# Oasis: Sentiment Analysis and Incivility Detection
 
 #Programming Language
 Python 3.7
